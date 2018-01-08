@@ -103,7 +103,11 @@ ul li {
     transition: padding 0.3s; }
   #header .logo {
     float: left; }
-
+  #header .header-content .logo{
+    color:#ffffff;
+    font-size:22px;
+    font-weight: 700;
+  }  
 #header.fixed {
   background-color: #292c47; }
   #header.fixed .header-content {
